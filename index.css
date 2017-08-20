@@ -1,0 +1,33 @@
+body{
+	background-color:#04f1f9;
+	color:#070133;
+	font-family:sans-serif;
+	font-size: medium;
+	margin-top:10%;
+	margin-bottom:10%;
+	margin-right:20%;
+	margin-left:20%;
+	background-image:url(photos/panda.jpg);
+	background-repeat:no-repeat;
+	background-size: 300%;
+}
+
+p{
+	border: dashed;
+	border-color: white;
+	padding:10px 10px 10px 10px;
+	text-align: center;
+	border-radius:20px;
+}
+li{
+	align-content: center;
+}
+@font-face{
+	font-family:"Emblema One";
+	src:url("EmblemaOne-Regular.woff"),
+		url("EmblemaOne-Regular.ttf");
+}
+h1{
+	font-family:"Emblema One";
+	text-decoration:overline underline;
+}
